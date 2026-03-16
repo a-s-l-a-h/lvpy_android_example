@@ -1,7 +1,8 @@
-
-
-
 # lvpy_android_example
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6c8a522a-596c-4eda-bea9-24144ea3c445" width="300">
+</p>
 
 This repository shows how to use **lvpy** inside an **Android Studio project** using **Chaquopy**.
 
