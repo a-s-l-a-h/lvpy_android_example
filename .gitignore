@@ -49,6 +49,10 @@ bin/
 *.ap_
 *.dex
 
+*.whl
+*.so
+
+
 # ProGuard
 proguard/
 *.map
@@ -143,4 +147,4 @@ Thumbs.db
 
 note.txt
 app/libs/*
-*whl
+!app/libs/.gitkeep
